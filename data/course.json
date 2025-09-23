@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Archaeology"
+    ]
+  ],
+  "legacy_uid": "18f81524-dbfa-cd67-41bd-f56d400d9294",
+  "instructors": {
+    "content": [
+      "96cadf39-fa58-0db7-5c75-71cb85093647"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ebfda15a-2e1e-ecdb-1f4a-47b70244981f",
+    "website": "3-986-the-human-past-introduction-to-archaeology-fall-2006"
+  },
+  "course_title": "The Human Past: Introduction to Archaeology",
+  "course_description": "This class introduces the multidisciplinary nature of archaeology, both in theory and practice. Lectures provide a comparative examination of the origins of agriculture and the rise of early civilizations in the ancient Near East and Mesoamerica. The laboratory sessions provide practical experience in aspects of archaeological field methods and analytical techniques including the examination of stone, ceramic, and metal artifacts and bone materials. Lab sessions have occasional problem sets which are completed outside of class.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.986",
+  "course_image_thumbnail": {
+    "content": "ee45113f-3eba-6e98-da6c-ae48ffb5cbb6",
+    "website": "3-986-the-human-past-introduction-to-archaeology-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "18df6115-6ab8-4cd4-ad08-cf5b29e3336c",
+  "site_short_id": "3.986-fall-2006",
+  "site_url_path": "courses/3-986-the-human-past-introduction-to-archaeology-fall-2006",
+  "title": "Course Metadata"
+}
