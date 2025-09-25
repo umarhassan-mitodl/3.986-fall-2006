@@ -5,6 +5,8 @@ description: This resource contains supplementary lecture notes on developments 
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/12a55d43d4a2fcd1686ccc72e6c9e2c0_supplement.pdf
 file_size: 15580
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains lecture notes on early humans, emerging cult
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/134dad28998da9e18b934fcd22005ba6_lec4.pdf
 file_size: 14602
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

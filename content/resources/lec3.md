@@ -7,6 +7,8 @@ description: This resource contains lecture notes on the three most recent epoch
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/75bcc4f2400ad4d8dfea5491649b7314_lec3.pdf
 file_size: 15588
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

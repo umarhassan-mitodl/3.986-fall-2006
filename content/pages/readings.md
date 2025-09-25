@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information about recommended readings for the
   course, including the course text, a table of readings associated with the lectures,
   and a few "extraneous" background readings.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

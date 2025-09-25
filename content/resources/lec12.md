@@ -5,6 +5,8 @@ description: 'This resource contains lecture notes on Mesoamerica: Maya civiliza
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/d0ac88827ed2cd5c1ece08060967f412_lec12.pdf
 file_size: 15636
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

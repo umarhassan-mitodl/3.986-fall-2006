@@ -5,6 +5,8 @@ description: This resource contains lecture notes on the Tehuac?n valley cultura
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/b85c0b6a00543886aff1e2714389574a_tehuacan.pdf
 file_size: 66125
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

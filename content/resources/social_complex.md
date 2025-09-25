@@ -5,6 +5,8 @@ description: This resource contains lecture notes on the path to social complexi
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/81560736daf45558809f0b649c762906_social_complex.pdf
 file_size: 19082
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

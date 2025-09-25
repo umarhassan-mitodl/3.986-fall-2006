@@ -5,6 +5,8 @@ description: This resource contains required readings, journal abstracts, and sy
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/2294db22b494a5d7a15661a7195d1fc7_unit3.pdf
 file_size: 64827
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

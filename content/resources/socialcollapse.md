@@ -6,6 +6,8 @@ description: 'This resource contains lecture notes on the decline of the classic
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/c9e05f9891aeb7625fb13e17ddea81a1_socialcollapse.pdf
 file_size: 36092
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

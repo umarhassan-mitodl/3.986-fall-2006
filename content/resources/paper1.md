@@ -6,6 +6,8 @@ description: This resource contains the topic for the first writing assignment, 
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/acd7763e0ac784d9b343a575f29c6996_paper1.pdf
 file_size: 418075
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

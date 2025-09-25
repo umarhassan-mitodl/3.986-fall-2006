@@ -5,6 +5,8 @@ description: This resource contains a map of the major topographic units in the 
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/9a3fdc412da4ea896ff2738da6e9e92e_ne_geography.pdf
 file_size: 145726
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -11,6 +11,8 @@ description: Around Chaco Canyon, New Mexico, NASA's Thermal Infrared Multispect
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f1f266decff358637e1b338dbe2d8c75_chp_chaco_roads.jpg
 file_size: 29444
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

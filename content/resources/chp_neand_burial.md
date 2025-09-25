@@ -4,6 +4,8 @@ description: ''
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/ae6edfbdfcb067f51951c106ceb3893c_chp_neand_burial.jpg
 file_size: 62798
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

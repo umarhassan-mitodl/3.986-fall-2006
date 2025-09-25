@@ -6,6 +6,8 @@ description: This resource contains lecture notes on the origins and expansion o
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/062226320f530d4909c4c4b9cf8c570c_lec6.pdf
 file_size: 16278
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
