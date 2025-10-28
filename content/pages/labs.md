@@ -83,7 +83,7 @@ Selected Notes ({{% resource_link f72d5ae3-9fd4-eaa1-8add-12b4c845f766 "PDF" %}}
 
 USGS: The Universal Transverse Mercator (UTM) Grid ({{% resource_link bc51d2ee-cfb5-bf0b-17df-f93d061f0047 "PDF" %}})
 
-[Geomagnetism: Long Term Movement of the North Magnetic Pole](http://www.ngdc.noaa.gov/geomag/GeomagneticPoles.shtml)
+{{% resource_link "cd5d7279-8453-4e8a-a911-b583c8659eb7" "Geomagnetism: Long Term Movement of the North Magnetic Pole" %}}
 
 
 {{< tdclose >}}

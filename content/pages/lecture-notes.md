@@ -3,8 +3,6 @@ content_type: page
 description: This section presents a set of vocabulary sheets that outline the key
   terms, concepts and characters covered in lectures, plus assorted handouts. Note
   that some vocabulary sheets are used for several lectures in a row.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

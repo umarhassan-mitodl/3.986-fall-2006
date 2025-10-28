@@ -8,8 +8,6 @@ description: 'This resource contains lecture notes on theoretical perspectives; 
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/1c1dc1240d57bb99ee637fe03fba18c2_lec5.pdf
 file_size: 2225874
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

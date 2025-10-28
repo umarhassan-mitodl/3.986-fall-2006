@@ -5,8 +5,6 @@ description: This resource explores questions about what make us ?human? and com
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f54e99b88eda9a66e2589bff00ff8e08_humanness.pdf
 file_size: 16186
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

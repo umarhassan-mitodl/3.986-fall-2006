@@ -5,8 +5,6 @@ description: This resource contains a synoptic overview of Pleistocene prehistor
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/ed86aa75a35e910f95c5f0d0c468df97_pleistocene.pdf
 file_size: 56311
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: 'This resource contains lectures notes on Mesoamerica: emergence of
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/45566a3ef98f042d4b8518821ce643a9_lec11.pdf
 file_size: 13137
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

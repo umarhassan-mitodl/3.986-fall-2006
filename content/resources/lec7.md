@@ -5,8 +5,6 @@ description: 'This resource contains lecture notes on the earliest stages of urb
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/44974723b1d3003a711a1c30c59f0fce_lec7.pdf
 file_size: 12801
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

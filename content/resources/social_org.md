@@ -5,8 +5,6 @@ description: This resource contains lecture notes on the classification of socia
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/c134a4a0333a278976db4e868f4f11c7_social_org.pdf
 file_size: 59344
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

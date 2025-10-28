@@ -5,8 +5,6 @@ description: This resource contains maps showing the wave model for rapid peopli
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/51f2836b6cebb734af7b79f9d200c156_newworld_maps.pdf
 file_size: 183995
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

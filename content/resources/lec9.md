@@ -5,8 +5,6 @@ description: This resource contains lecture notes on populating of the New World
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/574101c646e625e1e1af5c1225603ca5_lec9.pdf
 file_size: 14788
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

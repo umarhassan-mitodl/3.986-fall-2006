@@ -5,8 +5,6 @@ description: This resource contains a fact sheet on the Universal Transverse Mer
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/bc51d2eecfb5bf0b17dff93d061f0047_lab3_utmsheet.pdf
 file_size: 141371
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
